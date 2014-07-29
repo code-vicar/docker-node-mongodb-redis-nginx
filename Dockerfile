@@ -1,6 +1,6 @@
 # DOCKER-VERSION 1.1.1
 
-FROM svickers/node-mongodb-redis
+FROM svickers/node-mongodb-redis:1.2
 
 # File Author / Maintainer
 MAINTAINER Scott Vickers
